@@ -2,8 +2,8 @@
 
 angular
   .module('clientApp', [
-    'ngAnimate',
     'ngRoute',
+    'ngAnimate',
     'ngSanitize',
     'angularMoment',
     'angularModalService',
